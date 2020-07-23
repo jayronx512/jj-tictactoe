@@ -1,0 +1,14 @@
+#row {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 10vw;
+    height: 10vw;
+    border: solid 3px black;
+    line-height: 10vw;
+    text-align: center;
+    font-size: 5vw
+}
